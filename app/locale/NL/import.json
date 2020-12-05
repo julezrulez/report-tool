@@ -1,0 +1,5 @@
+{
+    "TITLE": "Importeer een WCAG EARL-rapport ",
+    "INTRO": " Als u een andere applicatie heeft gebruikt om een WCAG EARL-rapport te genereren dat binnen de scope van deze evaluatie valt, kunt u deze mogelijk importeren en toevoegen aan het evaluatie-auditresultaat. Het bestand zelf moet van het formaat JSON-LD zijn en bestaan uit objecten in EARL-formaat. De evaluatietests moeten gerelateerd zijn aan WCAG.",
+    "LABEL_SELECT_FILE": "Kies een JSON-LD-bestand"
+}

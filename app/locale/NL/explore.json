@@ -1,8 +1,8 @@
 {
     "TITLE": "Stap 2: Verken de te onderzoeken website",
     "INTRO": "Verken de website om zo het doel en de functie van de website te achterhalen. Deze stap helpt u te bepalen welke webpagina's te bekijken in de volgende stappen. Achterhaal welke webtechnologieën in de website zijn gebruikt, en als u wilt, neem notities over belangrijke aspecten van de website. Het is gebruikelijk om voor deze stap input van de eigenaar en ontwikkelaars van de website mee te nemen. Meer informatie over deze stap vindt u in <a href={{link_em_2}}>WCAG-EM Stap 2: Verken de te onderzoeken website</a>.",
-    "HD_RELIEDUP_TECH": "technologieën waarop gesteund wordt",
-    "INF_RELIEDUP_TECH": "Bepaal op welke webtechnologieën de website steund <a href={{link_relied_upon}}>volgens WCAG 2.0</a>. Voor meer informatie, zie <a href={{link_em_2d}}>WCAG-EM Stap 2.d: Identificeer technologieën waarop gesteund wordt</a>.<br> Merk op: om andere technologieën toe te voegen, kies 'Anders' and gebruik de velden 'Webtechnologie' en 'Specificatie adres (URL)'. In het veld 'Specificatie adres (URL)' dient te verwijzen naar de specificatie van de technologie.",
+    "HD_RELIEDUP_TECH": "Technologieën waarop gesteund wordt",
+    "INF_RELIEDUP_TECH": "Bepaal op welke webtechnologieën de website steunt <a href={{link_relied_upon}}>volgens WCAG 2.1</a>. Voor meer informatie, zie <a href={{link_em_2d}}>WCAG-EM Stap 2.d: Identificeer technologieën waarop gesteund wordt</a>.<br> Opmerking: om andere technologieën toe te voegen, kies 'Anders' en vul de velden 'Webtechnologie' en 'Specificatie adres (URL)' in. Het veld 'Specificatie adres (URL)' moet verwijzen naar de specificatie van de technologie.",
     "LABEL_TECH": "Webtechnologie",
     "LABEL_TECH_SPEC": "Specificatie adres (URL)",
     "PLH_TECH": "Bv. HTML5, CSS, DOM",
